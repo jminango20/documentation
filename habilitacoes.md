@@ -59,25 +59,25 @@ O detalhamento das habilitações por operação está representado no quadro ab
   </tr>
   <tr>
     <td>TPFtOperation1052 (Participante)</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X*</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X*</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
   </tr>
   <tr>
     <td>TPFtOperation1052 (Cliente)</td>
     <td></td>
     <td></td>
-    <td style="text-align:center;">X*</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
+    <th style="text-align:center;">X*</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
   </tr>
 </table>
 
-| **Habilitações necessárias para operações envolvendo TPFt** |                   |                   |                   |                   |                   |                   |
+| **Habilitações necessárias para operações envolvendo TPFt**                                                                                                                                                            |
 |------------------------------------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
 |                      **OPERAÇÃO TPFt**                     | **realDigital**   |                   | **tpfT**          |                   | **realTokenizado**|                   |
 |                                                            | **enableAccount** | **approve**       | **enableAddress** | **setApprovalForAll** | **/:enderecoContrato/enableAccount** | **/:enderecoContrato/approve** |
