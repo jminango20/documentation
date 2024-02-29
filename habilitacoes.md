@@ -77,15 +77,15 @@ O detalhamento das habilitações por operação está representado no quadro ab
   </tr>
 </table>
 
-| Habilitações necessárias para operações envolvendo TPFt |            |            |            |            |            |            |
-|--------------------------------------------------------|------------|------------|------------|------------|------------|------------|
-|                     **OPERAÇÃO TPFt**                   | **realDigital** |       | **tpfT**   |       | **realTokenizado** |       |
-|                                                        | **enableAccount** | **approve** | **enableAddress** | **setApprovalForAll** | **/:enderecoContrato/enableAccount** | **/:enderecoContrato/approve** |
-| TPFtOperation1001                                      |            |            |      X*    |            |            |            |
-| TPFtOperation1002                                      |       X    |       X    |      X*    |       X    |            |            |
-| TPFtOperation1070                                      |            |            |      X*    |       X    |            |            |
-| TPFtOperation1052 (Participante)                       |       X    |       X    |      X*    |       X    |       X    |       X    |
-| TPFtOperation1052 (Cliente)                            |            |            |      X*    |       X    |       X    |       X    |
+| **Habilitações necessárias para operações envolvendo TPFt** |                   |                   |                   |                   |                   |                   |
+|------------------------------------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
+|                      **OPERAÇÃO TPFt**                     | **realDigital**   |                   | **tpfT**          |                   | **realTokenizado**|                   |
+|                                                            | **enableAccount** | **approve**       | **enableAddress** | **setApprovalForAll** | **/:enderecoContrato/enableAccount** | **/:enderecoContrato/approve** |
+| TPFtOperation1001                                          |                   |                   | X*                |                   |                   |                   |
+| TPFtOperation1002                                          | X                 | X                 | X*                | X                 |                   |                   |
+| TPFtOperation1070                                          |                   |                   | X*                | X                 |                   |                   |
+| TPFtOperation1052 (Participante)                           | X                 | X                 | X*                | X                 | X                 | X                 |
+| TPFtOperation1052 (Cliente)                                |                   |                   | X*                | X                 | X                 | X                 |
 
 
 
