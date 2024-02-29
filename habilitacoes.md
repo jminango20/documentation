@@ -34,7 +34,7 @@ O detalhamento das habilitações por operação está representado no quadro ab
     <td>TPFtOperation1001</td>
     <td></td>
     <td></td>
-    <th style="text-align:center;">X*</th>
+    <td style="text-align:center;">X*</td>
     <td></td>
     <td></td>
     <td></td>
