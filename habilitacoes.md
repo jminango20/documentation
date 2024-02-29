@@ -88,7 +88,7 @@ O detalhamento das habilitações por operação está representado no quadro ab
 | **realTokenizado/:enderecoContrato/approve:** habilitar o contrato TPFtDvP a realizar transações com Real Tokenizado pela carteira.                                        |
 
 
-### **Importante**
+[!IMPORTANT]
 
 ### **Habilitação de carteiras para TPFt**
 
