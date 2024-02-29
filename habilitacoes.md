@@ -41,10 +41,10 @@ O detalhamento das habilitações por operação está representado no quadro ab
   </tr>
   <tr>
     <td>TPFtOperation1002</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X</td>
-    <td style="text-align:center;">X*</td>
-    <td style="text-align:center;">X</td>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X</th>
+    <th style="text-align:center;">X*</th>
+    <th style="text-align:center;">X</th>
     <td></td>
     <td></td>
   </tr>
@@ -52,8 +52,8 @@ O detalhamento das habilitações por operação está representado no quadro ab
     <td>TPFtOperation1070</td>
     <td></td>
     <td></td>
-    <td style="text-align:center;">X*</td>
-    <td style="text-align:center;">X</td>
+    <th style="text-align:center;">X*</th>
+    <th style="text-align:center;">X</th>
     <td></td>
     <td></td>
   </tr>
