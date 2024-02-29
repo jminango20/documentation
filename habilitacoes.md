@@ -14,7 +14,7 @@ O detalhamento das habilitações por operação está representado no quadro ab
 
 <table>
   <tr style="font-weight:bold;">
-    <th colspan="7" style="text-align:center;"font-weight:bold">Habilitações necessárias para operações envolvendo TPFt</th>
+    <th colspan="7" style="text-align:center;">Habilitações necessárias para operações envolvendo TPFt</th>
   </tr>
   <tr>
     <th rowspan="2" style="text-align:left;">OPERAÇÃO TPFt</th>
